@@ -1,5 +1,7 @@
 ## Hi there 👋
 [![ilyassboy04's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyassboy04)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyassboy04&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ilyassboy04/ilyassboy04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
